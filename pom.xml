@@ -111,6 +111,7 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
+                    <debug>true</debug>
                 </configuration>
             </plugin>
 
@@ -155,7 +156,7 @@
                     <manifest>
                         <addClasspath>true</addClasspath>
                         <classpathPrefix>lib/</classpathPrefix>
-                        <mainClass>de.derivo.sparqldlapi.examples.Sparql_dl_crowd</mainClass>
+                        <mainClass>de.derivo.sparqldlapi.examples.Consult</mainClass>
                     </manifest>
                 </archive>
             </configuration>

@@ -33,8 +33,8 @@ import org.jdom.output.XMLOutputter;
 import org.semanticweb.HermiT.ReasonerFactory;
 
 
-import org.semanticweb.owlapi.model.OWLClassExpression;
-import uk.ac.manchester.cs.owl.owlapi.OWLClassExpressionImpl;
+// import org.semanticweb.owlapi.model.OWLClassExpression;
+// import uk.ac.manchester.cs.owl.owlapi.OWLClassExpressionImpl;
 
 
 
